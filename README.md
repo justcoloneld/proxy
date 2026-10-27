@@ -1,5 +1,5 @@
 
-**Mepo Hub** is an unlocked school web proxy that allows users to bypass restrictions and access websites easily.
+**Mepo Hub**
 
 ## Features
 
